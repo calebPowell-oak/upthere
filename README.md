@@ -13,14 +13,19 @@ __UpThere__ is an application for mobile devices that creates a visualization of
 #### GPS Integration (pending)
 Using mobile device's GPS connection information, GPS satellites that a user is actively connected to can be highlighted in the POV view. In birdseye view, lines of sight between the user on the ground and satellites in space can be highlighted as GPS satellites come into view and connect with the user.
 
-# Previews
+# Preview Images
 
 <details>
-  <summary>Spoiler warning</summary>
+  <summary>POV Images</summary>
  
 ## User Ground POV
 ![ground view with menus](https://github.com/calebPowell-oak/upthere/blob/master/images/povMenu.png "something")
 ![ground view](https://github.com/calebPowell-oak/upthere/blob/master/images/povNoMenu.png)
+</details>
+
+<details>
+  <summary>Bird's Eye Images</summary>
+ 
 ## Bird's Eye View
 ![birdeye view with menus](https://github.com/calebPowell-oak/upthere/blob/master/images/birdeyeMenu.png "something")
 ![birdeye view](https://github.com/calebPowell-oak/upthere/blob/master/images/birdeyeNoMenu.png "something")
