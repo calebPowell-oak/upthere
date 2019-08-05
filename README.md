@@ -15,9 +15,13 @@ Using mobile device's GPS connection information, GPS satellites that a user is 
 
 # Previews
 
+<details>
+  <summary>Spoiler warning</summary>
+ 
 ## User Ground POV
 ![ground view with menus](https://github.com/calebPowell-oak/upthere/blob/master/images/povMenu.png "something")
 ![ground view](https://github.com/calebPowell-oak/upthere/blob/master/images/povNoMenu.png)
 ## Bird's Eye View
 ![birdeye view with menus](https://github.com/calebPowell-oak/upthere/blob/master/images/birdeyeMenu.png "something")
 ![birdeye view](https://github.com/calebPowell-oak/upthere/blob/master/images/birdeyeNoMenu.png "something")
+</details>
